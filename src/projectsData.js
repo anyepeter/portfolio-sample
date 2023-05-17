@@ -15,7 +15,7 @@ export default [
     description: `The online bookstore delivery app allows bookstore owners and authors to upload and delete books using an API. 
     Additionally, users can track their progress once a book has been uploaded. The app is built with React and Redux.`,
     featured: 'project-2-featured',
-    image: 'https://media.licdn.com/dms/image/C4E2DAQGtvJcLuCIPzQ/profile-treasury-image-shrink_800_800/0/1672965610499?e=1684141200&v=beta&t=E-Ts893Ets6Zqd0KiKFCJaA0CMERjfij_d5nMwov7s0',
+    image: 'images/bookstore.jpeg',
     technologies: ['React', 'Redux', 'JavaScript', 'CSS'],
     liveVersionLink: 'https://bookstore-apcode.netlify.app/',
     linkToSource: 'https://github.com/anyepeter/bookstore',
@@ -27,7 +27,7 @@ export default [
     "Mboko Drill". It is a rap type mostly practiced in my
      area where artists get to sing in "Pigin"`,
     featured: 'project-3-featured',
-    image: 'https://media.licdn.com/dms/image/C4E2DAQHHSqvJL2t6lQ/profile-treasury-image-shrink_800_800/0/1672964953168?e=1684141200&v=beta&t=l8JDifUP54_Xel-F70yyEDcEvq26deNOzel0Yi_axTk',
+    image: 'images/awward.jpeg',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     liveVersionLink: 'https://anyepeter.github.io/Capstone-project/',
     linkToSource: 'https://github.com/anyepeter/Capstone-project',
